@@ -7,7 +7,7 @@ int main(void) {
     while (!WindowShouldClose()) {
         BeginDrawing();
 
-            DrawText("template", 100, 100, 20, BLACK);
+            DrawText("templatee", 100, 100, 20, BLACK);
             ClearBackground(LIGHTGRAY);
     
         EndDrawing();
